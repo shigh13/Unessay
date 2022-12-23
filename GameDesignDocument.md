@@ -1,8 +1,8 @@
 # Summary
 
-**Describe your game in one sentence.**
+**"Humanizing Canada's Colonial Legacy" is not exactly a game, but rather an experience that bridges the gaps between digital and physical, past and present.**
 
-Then write one or two paragraphs summarising your game.
+"Humanizing Canada's Colonial Legacy" consists of twelve carefully chosen audio clips that cover a broad range of issues concerning colonialism in Canada over the past half century. These audio clips are exclusively voiced by Indigenous people and range in mediums from poetry to song to documentary. By dropping the audio clips around the Centennial Flame, one not only draws the clear linkage to the memorial to the 215 victims of the Kamloops Residential School from the Summer of 2021, but also brings the subject of neo-colonialism and its effects today to the forefront while standing in the shadow of the Canadian Parliament. The clips are dropped in the area around the flame and there is no linear order to listen to them in, which will make each person's experience a uniques one. The clips also overlap with each other and grow louder at their centres to demonstrate both the temporal interconnectedness of the stories and to make each clip imitate a person telling the story in real life.
 
 [Echoes](https://ibb.co/vw4w0NF)
 
