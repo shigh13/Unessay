@@ -4,7 +4,7 @@
 
 Then write one or two paragraphs summarising your game.
 
-![Alt text](https://ibb.co/vw4w0NF)
+[![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg)](https://ibb.co/vw4w0NF)
 
 # Core
 
