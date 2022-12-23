@@ -33,11 +33,11 @@ This is the only real feature of this experience, and it thus plays a tremedous 
 
 This is the content of your game. They’re things that can change depending on where the player is at in the game. Depending on the type of game you’re making you might not need all of these pages or they might look very different.
 
-** Sound
+**Sound**
 
 This is an auditory experience first and foremost. Movement and space are also crucial, but sound is the key component. Each clip features not only differnt voices, but different mediums, as well. There are interviews, there are songs, there are poems, there are documentaries. They all tell stories of experiences with colonial systmes but from different perspectives and in different methods.
 
-** Characters
+**Characters**
 
 The twelve clips are from twelve different voices about twelve different events, experiences, and perspectives. There are a few clips with multiple voices (the Obomsawin documentary clip specifically) but each clip and each voice brings unique emotions and perspectives, which demonstrates the different interpretations of events and structures, as well as the personalities of each speaker. 
 
