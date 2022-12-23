@@ -4,7 +4,7 @@
 
 Then write one or two paragraphs summarising your game.
 
-Add an image of video of your game here that demonstrates what the game is like.
+![Alt text](https://ibb.co/vw4w0NF)
 
 # Core
 
