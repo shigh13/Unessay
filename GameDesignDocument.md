@@ -4,7 +4,7 @@
 
 Then write one or two paragraphs summarising your game.
 
-[![Echoes](https://ibb.co/vw4w0NF)
+[Echoes](https://ibb.co/vw4w0NF)
 
 # Core
 
