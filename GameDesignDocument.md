@@ -8,18 +8,18 @@
 
 # Core
 
-[[Design pillars]]
+## Design pillars ##
 
 1. Movement
 2. Listening
 3. Learning
 4. Feeling
 
-[[Game loops]]
+## Game loops ##
 
 The only loop in the experience comes at its conclusion, when all twelve clips have been listened to.
 
-[[Player motivation and progression]]
+## Player motivation and progression ##
 
 The four key player motivations in this experience are learning, listening, moving, and feeling. The only progression that can be measured is subjective to each individual to "play" the experience: what they learn and what they feel.
 
