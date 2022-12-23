@@ -8,36 +8,38 @@
 
 # Core
 
-## Design pillars ##
+## Design pillars 
 
 1. Movement
 2. Listening
 3. Learning
 4. Feeling
 
-## Game loops ##
+## Game loops 
 
 The only loop in the experience comes at its conclusion, when all twelve clips have been listened to.
 
-## Player motivation and progression ##
+## Player motivation and progression 
 
 The four key player motivations in this experience are learning, listening, moving, and feeling. The only progression that can be measured is subjective to each individual to "play" the experience: what they learn and what they feel.
 
 # Features
 
-These are the features in your game. They’re game mechanics that apply throughout the whole of the game.
+## Sound Mapping
 
-[[Feature template]]
+This is the only real feature of this experience, and it thus plays a tremedous role. By playing specific sounds/clips when the playeris standing in a specific geographic location, and thus linking place with sound and movement with changing sounds, sound mapping is a powerful and versatile tool. Because it is not a perfect science and does not correspond to placing audio clips on the correct location to the inch, one must walk around a little bit to discover all the sounds, rather than rely on the map in the Echoes app. This is especially true for this project, as all the sounds are in one constrained area rather than dispersed in a large one or placed sequentially in a line. This encourages the player to walk around the game area more and to figure out its geographic limits for themselves.
 
 # Content
 
 This is the content of your game. They’re things that can change depending on where the player is at in the game. Depending on the type of game you’re making you might not need all of these pages or they might look very different.
 
-[[Narrative summary]]
+**Sound
 
-[[Characters]]
+This is an auditory experience first and foremost. Movement and space are also crucial, but sound is the key component. Each clip features not only differnt voices, but different mediums, as well. There are interviews, there are songs, there are poems, there are documentaries. They all tell stories of experiences with colonial systmes but from different perspectives and in different methods.
 
-[[Level summaries]]
+**Characters
+
+The twelve clips are from twelve different voices about twelve different events, experiences, and perspectives. There are a few clips with multiple voices (the Obomsawin documentary clip specifically) but each clip and each voice brings unique emotions and perspectives, which demonstrates the different interpretations of events and structures, as well as the personalities of each speaker. 
 
 ---
 
